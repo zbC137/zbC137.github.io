@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, The Hong Kong Polytechnic University, 2021-Now
+* M.Sc. in Control Science and Engineering, China Academy of Space Technology, 2017-2020
+* B.Eng. in Detection, Guidance, and Control Technology, Beihang University, 2013-2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Aug. 2020-Mar.2021: Research Intern
+  * Qian Xuesen Laboratory, China Academy of Space Technology
+  * Supervisor: Prof. ZHOU Qingrui
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr. 2021-Aug.2021: Research Assistant
+  * ROMI-Lab, The Hong Kong Polytechnic University
+  * Supervisor: Dr. David Navarro-Alarcon
   
 Skills
 ======
