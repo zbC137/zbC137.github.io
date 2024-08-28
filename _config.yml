@@ -21,7 +21,7 @@ repository               : "zbC137/zbC137.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile/profile2.png"
   name             : "ZHANG Bin (张斌)"
   pronouns         : He/Him  
   bio              : "Ph.D. candidate with PolyU."
@@ -206,7 +206,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
   talks:
