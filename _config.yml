@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile2.png"
   name             : "ZHANG Bin (张斌)"
-  pronouns         : # example: "she/her"  
+  pronouns         : He/Him  
   bio              : "Ph.D. candidate with PolyU."
   location         : "Hong Kong SAR, China"
   employer         : "The HK Polytechnic University"
@@ -252,10 +252,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
