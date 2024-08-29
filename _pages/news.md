@@ -9,49 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Mechanical Engineering, The Hong Kong Polytechnic University, 2021-Now
-* M.Sc. in Control Science and Engineering, China Academy of Space Technology, 2017-2020
-* B.Eng. in Detection, Guidance, and Control Technology, Beihang University, 2013-2017
-
-Work experience
-======
-* Aug. 2020-Mar.2021: Research Intern
-  * Qian Xuesen Laboratory, China Academy of Space Technology
-  * Supervisor: Prof. ZHOU Qingrui
-
-* Apr. 2021-Aug.2021: Research Assistant
-  * ROMI-Lab, The Hong Kong Polytechnic University
-  * Supervisor: Dr. David Navarro-Alarcon
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **August 2024**: A first-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
+* **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
+* **May 2024**: A poster was accepted as the latest breaking results and presented in *ICRA 2024*.  
+* **March 2024**: I started a research attachment programme as a visiting Ph.D. student in Prof. Dimos V. Dimarogonas's group at KTH Royal Institute of Technology. The programme was fully sponsored by PolyU.  
+* **November 2023**: I participated the Research Presentation Competition of ME, PolyU.
+* **November 2023**: I gave an online talk about my research on multi-agent formation control along parametric curves at DCS, KTH Royal Institute of Technology.  
+* **July 2023**: A first-authored paper got accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (T-CAS-I)*!  
+* **March 2023**: A co-authored paper got accepted by *IEEE Transactions on Cognitive and Developmental Systems (T-CDS)*!  
+* **October 2022**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!  
+* **November 2022**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!  
+* **November 2021**: A co-authored paper got accepted by *IEEE Sensor Journal*!  
+* **September 2021**: I started my Ph.D. study in ROMI-Lab, PolyU.  
+* **May 2021**: I joined ROMI-Lab, PolyU as a research assistant.  
+* **June 1995**: I came to this world from universe no. C137.
