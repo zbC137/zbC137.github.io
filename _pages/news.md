@@ -22,4 +22,4 @@ redirect_from:
 * **November 2021**: A co-authored paper got accepted by *IEEE Sensor Journal*!  
 * **September 2021**: I started my Ph.D. study in ROMI-Lab, PolyU.  
 * **May 2021**: I joined ROMI-Lab, PolyU as a research assistant.  
-* **June 1995**: I came to this world from universe no. C137.
+* **June 1995**: I came to this world from Universe No. C137.
