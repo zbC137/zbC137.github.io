@@ -10,8 +10,8 @@ author_profile: true
 {% endif %}
 #Equal Contribution
 
-Journal Papers
-=======
+## Journal Papers
+
 * X. Shao, **B. Zhang<sup>#</sup>**, H. Zhi, J. G. Romero, B. Fan, Q. Hu, and D. Navarro-Alarcon, "InPTC: Integrated Planning and Tube-Following Control for Prescribed-Time Collision-Free Navigation of Wheeled Mobile Robots," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2024 (Under Review). arXiv:[2312.11930](https://doi.org/10.48550/arXiv.2312.11930). ([PDF](http://zbC137.github.io/files/papers/TMECH_2024.pdf), [Video](https://vimeo.com/895801720))
 
 * **B. Zhang**, X. Shao, H. Zhi, L. Qiu, J. G. Romero, and D. Navarro-Alarcon, "Leader-Follower Formation Control of Perturbed Nonholonomic Agents along Parametric Curves with Directed Communication," in *IEEE Robotics and Automation Letters (RA-L)*, Aug. 2024 (Early Access). doi:[10.1109/LRA.2024.3445657](https://doi.org/10.1109/LRA.2024.3445657). ([PDF](http://zbC137.github.io/files/papers/RAL_2024.pdf), [Video](https://vimeo.com/872927697))
@@ -36,8 +36,8 @@ Journal Papers
 
 * J. Zhou, J. Hu, Y. Bai, **B. Zhang**, "Optimal Impulsive Time-Fixed Transfers Around the Libration Points of the Restricted Three-Body Problem," in *Astrophysics and Space Science*, vol. 365, no. 79, May 2020. doi: [10.1007/s10509-020-03793-7](https://doi.org/10.1007/s10509-020-03793-7)
 
-Conference Papers
-========
+## Conference Papers
+
 * **B. Zhang**, C. Li, and J. Zhou, "Station-keeping of Halo Orbits using Convex Optimization-Based Receding Horizon Control," in *Proceedings of 2021 China Automation Congress (CAC)*, pp. 7160-7165, Beijing, China, Oct. 2021. doi: [10.1109/CAC53003.2021.9728345](https://doi.org/10.1109/CAC53003.2021.9728345). ([PDF](http://zbC137.github.io/files/papers/CAC_2021.pdf))
 
 * **B. Zhang** and J. Zhou, "Characteristic Model-based Station-keeping Control for Halo Orbits about Sun-Earth L1 Point," in *Proceedings of 2019 Chinese Automation Congress (CAC)*, pp. 418-423, Hangzhou, China, Nov. 2019. doi: [10.1109/CAC48633.2019.8997351](https://doi.org/10.1109/CAC48633.2019.8997351). ([PDF](http://zbC137.github.io/files/papers/CAC_2019.pdf))
