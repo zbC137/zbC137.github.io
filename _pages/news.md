@@ -17,8 +17,8 @@ redirect_from:
 * **November 2023**: I gave an online talk about my research on multi-agent formation control along parametric curves at DCS, KTH Royal Institute of Technology.  
 * **July 2023**: A first-authored paper got accepted by *IEEE Transactions on Circuits and Systems I: Regular Papers (T-CAS-I)*!  
 * **March 2023**: A co-authored paper got accepted by *IEEE Transactions on Cognitive and Developmental Systems (T-CDS)*!  
-* **October 2022**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!  
 * **November 2022**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!  
+* **October 2022**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!  
 * **November 2021**: A co-authored paper got accepted by *IEEE Sensor Journal*!  
 * **September 2021**: I started my Ph.D. study in ROMI-Lab, PolyU.  
 * **May 2021**: I joined ROMI-Lab, PolyU as a research assistant.  

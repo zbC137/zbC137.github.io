@@ -12,7 +12,7 @@ author_profile: true
 
 Journal Papers
 =======
-* X. Shao, **B. Zhang<sup>#</sup>** , H. Zhi, J. G. Romero, B. Fan, Q. Hu, and D. Navarro-Alarcon, "InPTC: Integrated Planning and Tube-Following Control for Prescribed-Time Collision-Free Navigation of Wheeled Mobile Robots," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2024 (Under Review). arXiv:[2312.11930](https://doi.org/10.48550/arXiv.2312.11930). ([PDF](http://zbC137.github.io/files/papers/TMECH_2024.pdf), [Video](https://vimeo.com/895801720))
+* X. Shao, **B. Zhang<sup>#</sup>**, H. Zhi, J. G. Romero, B. Fan, Q. Hu, and D. Navarro-Alarcon, "InPTC: Integrated Planning and Tube-Following Control for Prescribed-Time Collision-Free Navigation of Wheeled Mobile Robots," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2024 (Under Review). arXiv:[2312.11930](https://doi.org/10.48550/arXiv.2312.11930). ([PDF](http://zbC137.github.io/files/papers/TMECH_2024.pdf), [Video](https://vimeo.com/895801720))
 
 * **B. Zhang**, X. Shao, H. Zhi, L. Qiu, J. G. Romero, and D. Navarro-Alarcon, "Leader-Follower Formation Control of Perturbed Nonholonomic Agents along Parametric Curves with Directed Communication," in *IEEE Robotics and Automation Letters (RA-L)*, Aug. 2024 (Early Access). doi:[10.1109/LRA.2024.3445657](https://doi.org/10.1109/LRA.2024.3445657). ([PDF](http://zbC137.github.io/files/papers/RAL_2024.pdf), [Video](https://vimeo.com/872927697))
 
