@@ -31,3 +31,14 @@ Contact
 =======
 Email: *me-bin.zhang@connect.polyu.hk*  
 Address: *GH033b, The HK PolyU, Hung Hom, Kowloon, Hong Kong SAR*
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NG2TWWESNK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-NG2TWWESNK');
+</script>
+
