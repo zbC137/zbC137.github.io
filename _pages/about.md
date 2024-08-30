@@ -42,5 +42,5 @@ Address: *GH033b, The HK PolyU, Hung Hom, Kowloon, Hong Kong SAR*
   gtag('config', 'G-NG2TWWESNK');
 </script>
 
-<a href="https://clustrmaps.com/site/1c11y"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w&cl=ffffff" /></a>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w&cl=ffffff&w=a"></script>
 
