@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "ZHANG Bin (张斌)"
 title_separator          : "-"
-name                     : &name "ZHANG Bin"
-description              : &description "personal description"
+name                     : &name "ZHANG Bin (张斌)"
+description              : &description "A research worker"
 url                      : https://zbC137.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zbC137/zbC137.github.io"
@@ -137,9 +137,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "custom" #"false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" #"false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :  
+    tracking_id          :  "G-NG2TWWESNK"
 
 
 # Reading Files
