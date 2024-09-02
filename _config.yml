@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZHANG Bin (张斌)"
+title                    : "ZHANG Bin"
 title_separator          : "-"
 name                     : &name "ZHANG Bin (张斌)"
 description              : &description "A research worker"
