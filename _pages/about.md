@@ -40,4 +40,4 @@ Email: *me-bin.zhang@connect.polyu.hk*
 Address: *GH033b, The HK PolyU, Hung Hom, Kowloon, Hong Kong SAR*
 
 <br><br>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w'></script>
