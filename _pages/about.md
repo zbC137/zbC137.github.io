@@ -29,9 +29,9 @@ Research Interests
 
 News
 ======
+* **October 2024**: A paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*, where I was listed as the co-first author!
 * **August 2024**: A first-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
-* **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
-* **May 2024**: A poster was accepted as the latest breaking results and presented in *ICRA 2024*.  
+* **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*! 
 [read more...](https://zbC137.github.io/news)
 
 Contact
