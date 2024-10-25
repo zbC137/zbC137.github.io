@@ -31,7 +31,7 @@ News
 ======
 * **October 2024**: A paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*, where I was listed as the co-first author!
 * **August 2024**: A first-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
-* **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*! 
+* **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!  
 [read more...](https://zbC137.github.io/news)
 
 Contact
@@ -41,5 +41,5 @@ Address: *GH033b, The HK PolyU, Hung Hom, Kowloon, Hong Kong SAR*
 
 <br><br>
 <div style="text-align: left;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=tt&d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=HAijKBauD2_5f6LBscCTgW-dnpWMPjfnM-l9sNEBP5w'></script>
 </div>
