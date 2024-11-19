@@ -18,7 +18,7 @@ author_profile: true
 
 * **B. Zhang**, H. Zhi, J. G. Romero, L. Labazanova, A. Duan, X. Li, and D. Navarro-Alarcon, "Fourier-Based Multi-Agent Formation Control to Track Evolving Closed Boundaries," in *IEEE Transactions on Circuits and Systems I: Regular Papers (T-CAS-I)*, vol. 70, no. 11, pp. 4549-4559, Nov. 2023, doi: [10.1109/TCSI.2023.3300772](https://doi.org/10.1109/TCSI.2023.3300772). ([PDF](http://zbC137.github.io/files/papers/TCAS1_2023.pdf), [Video](https://vimeo.com/809466573))
 
-* **B. Zhang**, J. Zhou, "characteristic Model-Based Station-keeping Control for Halo Orbit" in *Acta Aeronautica et Astronautica Sinica (航空学报中文版)*, vol. 40, no. 11, Nov. 2019. doi: [10.7527/S1000-6893.2019.23306](https://doi.org/10.7527/S1000-6893.2019.23206). ([PDF](http://zbC137.github.io/files/papers/HKXB_2019.pdf))
+* **B. Zhang**, J. Zhou, "Characteristic Model-Based Station-keeping Control for Halo Orbit" in *Acta Aeronautica et Astronautica Sinica (航空学报中文版)*, vol. 40, no. 11, Nov. 2019. doi: [10.7527/S1000-6893.2019.23306](https://doi.org/10.7527/S1000-6893.2019.23206). ([PDF](http://zbC137.github.io/files/papers/HKXB_2019.pdf))
 
 * H. Zhi, **B. Zhang**, J. Qi, J. G. Romero, X. Shao, C. Yang, and D. Navarro-Alarcon, "Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8651-8658, Oct. 2024. doi: [10.1109/LRA.2024.3440096](https://doi.org/10.1109/LRA.2024.3440096).
 
