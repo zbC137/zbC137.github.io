@@ -30,7 +30,7 @@ News
 ======
 * **Janurary 2025**: A first-authored RA-L submission got accepted to be presented on ICRA 2025!
 * **Janurary 2025**: A co-authored RA-L submission got accepted to be presented on ICRA 2025!
-* **October 2024**: A paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*, where I was listed as the co-first author! 
+* **October 2024**: A paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*, where I was listed as the co-first author!  
 [read more...](https://zbC137.github.io/news)
 
 Contact
