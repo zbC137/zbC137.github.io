@@ -16,7 +16,8 @@ author_profile: true
 
 * **B. Zhang**, X. Shao, H. Zhi, L. Qiu, J. G. Romero, and D. Navarro-Alarcon, "Leader-Follower Formation Control of Perturbed Nonholonomic Agents along Parametric Curves with Directed Communication," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8603 - 8610, Oct. 2024. doi:[10.1109/LRA.2024.3445657](https://doi.org/10.1109/LRA.2024.3445657). ([PDF](http://zbC137.github.io/files/papers/RAL_2024.pdf), [Video](https://vimeo.com/872927697))
 
-* **B. Zhang**, H. Zhi, J. G. Romero, L. Labazanova, A. Duan, X. Li, and D. Navarro-Alarcon, "Fourier-Based Multi-Agent Formation Control to Track Evolving Closed Boundaries," in *IEEE Transactions on Circuits and Systems I: Regular Papers (T-CAS-I)*, vol. 70, no. 11, pp. 4549-4559, Nov. 2023, doi: [10.1109/TCSI.2023.3300772](https://doi.org/10.1109/TCSI.2023.3300772). ([PDF](http://zbC137.github.io/files/papers/TCAS1_2023.pdf), [Video](https://vimeo.com/809466573))
+* **B. Zhang**, H. Zhi, J. G. Romero, L. Labazanova, A. Duan, X. Li, and D. Navarro-Alarcon, "Fourier-Based Multi-Agent Formation Control to Track Evolving Closed Boundaries," in *IEEE Transactions on Circuits and Systems I: Regular Papers (T-CAS-I)*, vol. 70, no. 11, pp. 4549-4559, Nov. 2023, doi: [10.1109/TCSI.2023.3300772](https://doi.org/10.1109/TCSI.2023.3300772). ([PDF](http://zbC137.github.io/files/papers/TCAS1_2023.pdf), [Video](https://vimeo.com/809466573))  
+**Presented in ICRA 2025**
 
 * **B. Zhang**, J. Zhou, "Characteristic Model-Based Station-keeping Control for Halo Orbit" in *Acta Aeronautica et Astronautica Sinica (航空学报中文版)*, vol. 40, no. 11, Nov. 2019. doi: [10.7527/S1000-6893.2019.23306](https://doi.org/10.7527/S1000-6893.2019.23206). ([PDF](http://zbC137.github.io/files/papers/HKXB_2019.pdf))
 
@@ -24,7 +25,8 @@ author_profile: true
 
 * Y. Tian, **B. Zhang**, X. Shao, and D. Navarro-Alarcon, "Encircling General 2-D Boundaries by Mobile Robots with Collision Avoidance: A Vector Field Guided Approach," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*. doi:[arXiv:2501.02242](https://arxiv.org/abs/2501.02242)
 
-* H. Zhi, **B. Zhang**, J. Qi, J. G. Romero, X. Shao, C. Yang, and D. Navarro-Alarcon, "Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8651-8658, Oct. 2024. doi: [10.1109/LRA.2024.3440096](https://doi.org/10.1109/LRA.2024.3440096).
+* H. Zhi, **B. Zhang**, J. Qi, J. G. Romero, X. Shao, C. Yang, and D. Navarro-Alarcon, "Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8651-8658, Oct. 2024. doi: [10.1109/LRA.2024.3440096](https://doi.org/10.1109/LRA.2024.3440096).  
+**Presented in ICRA 2025**
 
 * H. Y. Lee, P. Zhou, **B. Zhang**, L. Qiu, B. Fan, A. Duan, J. Tang, T. L. Lam, D. Navarro-Alarcon, "A Distributed Dynamic Framework to Allocate Collaborative Tasks Based on Capability Matching in Heterogeneous Multirobot Systems," in *IEEE Transactions on Cognitive and Developmental Systems (T-CDS)*, vol. 16, no. 1, pp. 251-265, Feb. 2024, doi: [10.1109/TCDS.2023.3264034](https://doi.org/10.1109/TCDS.2023.3264034).
 
