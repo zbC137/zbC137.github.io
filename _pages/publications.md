@@ -20,6 +20,8 @@ author_profile: true
 
 * **B. Zhang**, J. Zhou, "Characteristic Model-Based Station-keeping Control for Halo Orbit" in *Acta Aeronautica et Astronautica Sinica (航空学报中文版)*, vol. 40, no. 11, Nov. 2019. doi: [10.7527/S1000-6893.2019.23306](https://doi.org/10.7527/S1000-6893.2019.23206). ([PDF](http://zbC137.github.io/files/papers/HKXB_2019.pdf))
 
+* N. Han, G. Gong, **B. Zhang**, Y. Xu, B. Yang, Y. Liu, D. Navarro-Alarcon, "Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*.
+
 * Y. Tian, **B. Zhang**, X. Shao, and D. Navarro-Alarcon, "Encircling General 2-D Boundaries by Mobile Robots with Collision Avoidance: A Vector Field Guided Approach," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*. doi:[arXiv:2501.02242](https://arxiv.org/abs/2501.02242)
 
 * H. Zhi, **B. Zhang**, J. Qi, J. G. Romero, X. Shao, C. Yang, and D. Navarro-Alarcon, "Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8651-8658, Oct. 2024. doi: [10.1109/LRA.2024.3440096](https://doi.org/10.1109/LRA.2024.3440096).
