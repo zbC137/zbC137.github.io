@@ -28,9 +28,9 @@ Research Interests
 
 News
 ======
+* **June 2025**: A T-MECH paper got accepted to be presented on IROS 2025.
 * **May 2025**: Attended the ICRA 2025 and presented our work on formation control along parametric curves.
-* **Janurary 2025**: A first-authored RA-L submission got accepted to be presented on ICRA 2025!
-* **Janurary 2025**: A co-authored RA-L submission got accepted to be presented on ICRA 2025!  
+* **Janurary 2025**: A first-authored RA-L submission got accepted to be presented on ICRA 2025!  
 [read more...](https://zbC137.github.io/news)
 
 Contact
