@@ -16,7 +16,7 @@ redirect_from:
 * **October 2024**: A paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*, where I was listed as the co-first author!
 * **August 2024**: A first-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
 * **July 2024**: A co-authored paper got accepted by *IEEE Robotics and Automation Letters (RA-L)*!
-* **May 2024**: A poster was accepted as the latest breaking results and presented in *ICRA 2024*.  
+* **May 2024**: A poster was accepted as the late breaking results and presented in *ICRA 2024*.  
 * **March 2024**: I started a research attachment programme as a visiting Ph.D. student in Prof. Dimos V. Dimarogonas's group at KTH Royal Institute of Technology. The programme was fully sponsored by PolyU.  
 * **November 2023**: I participated the Research Presentation Competition of ME, PolyU.
 * **November 2023**: I gave an online talk about my research on multi-agent formation control along parametric curves at DCS, KTH Royal Institute of Technology.  
