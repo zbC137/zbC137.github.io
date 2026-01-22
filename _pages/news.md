@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* **Janurary 2026**: A co-authored paper got accepted by *IEEE/ASME Transactions on Mechatronics (T-MECH)*!
 * **June 2025**: A T-MECH paper got accepted to be presented on IROS 2025.
 * **May 2025**: Attended the ICRA 2025 and presented our work on formation control along parametric curves.
 * **Janurary 2025**: A first-authored RA-L submission got accepted to be presented on ICRA 2025!

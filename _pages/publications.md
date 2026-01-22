@@ -24,7 +24,7 @@ author_profile: true
 
 ## Coauthored Journal Papers
 
-[CJ10] N. Han, G. Gong, **B. Zhang**, Y. Xu, B. Yang, Y. Liu, D. Navarro-Alarcon, "Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*.
+[CJ10] N. Han, G. Gong, **B. Zhang**, Y. Xu, B. Yang, Y. Liu, D. Navarro-Alarcon, "Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2026. (Early Access) doi:[10.1109/TMECH.2026.3657722](https://doi.org/10.1109/TMECH.2026.3657722)
 
 [CJ9] Y. Tian, **B. Zhang**, X. Shao, and D. Navarro-Alarcon, "Encircling General 2-D Boundaries by Mobile Robots with Collision Avoidance: A Vector Field Guided Approach," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*. doi:[arXiv:2501.02242](https://arxiv.org/abs/2501.02242)
 
