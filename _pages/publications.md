@@ -26,7 +26,7 @@ author_profile: true
 
 [CJ10] N. Han, G. Gong, **B. Zhang**, Y. Xu, B. Yang, Y. Liu, D. Navarro-Alarcon, "Prescribed Performance Control of Deformable Object Manipulation in Spatial Latent Space," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2026. (Early Access) doi:[10.1109/TMECH.2026.3657722](https://doi.org/10.1109/TMECH.2026.3657722)
 
-[CJ9] Y. Tian, **B. Zhang**, X. Shao, and D. Navarro-Alarcon, "Encircling General 2-D Boundaries by Mobile Robots with Collision Avoidance: A Vector Field Guided Approach," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*. doi:[arXiv:2501.02242](https://arxiv.org/abs/2501.02242)
+[CJ9] Y. Tian, **B. Zhang**, X. Shao, and D. Navarro-Alarcon, "Encircling General 2-D Boundaries by Mobile Robots with Collision Avoidance: A Vector Field Guided Approach," submitted to *IEEE/ASME Transactions on Mechatronics (T-MECH)*, 2026. (Early Access) doi:[10.1109/TMECH.2026.3663573](https://doi.org/10.1109/TMECH.2026.3663573)
 
 [CJ8] H. Zhi, **B. Zhang**, J. Qi, J. G. Romero, X. Shao, C. Yang, and D. Navarro-Alarcon, "Non-Prehensile Object Transport by Nonholonomic Robots Connected by Linear Deformable Elements," in *IEEE Robotics and Automation Letters (RA-L)*, vol. 9, no. 10, pp. 8651-8658, Oct. 2024. doi: [10.1109/LRA.2024.3440096](https://doi.org/10.1109/LRA.2024.3440096).  
 **Presented in ICRA 2025**
