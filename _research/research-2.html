@@ -1,10 +1,39 @@
 ---
 title: "Path Planning and Control of Mobile Robots"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/research/research2.png' width='500' height='600'>"
+excerpt: "Prescribed-time safe navigation of mobile robots in clustered environments.<br/><br><img src='/images/research/research2.png' width='500' height='600'>"
 collection: research
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+In this project, we propose a novel approach, called InPTC (Integrated Planning and Tube-Following Control), 
+for prescribed-time collision-free navigation of wheeled mobile robots in a compact convex workspace cluttered with static, 
+sufficiently separated, and convex obstacles. 
+A path planner with prescribed-time convergence is presented based upon Bouligand's tangent cones and time scale transformation (TST) techniques, 
+yielding a continuous vector field that can guide the robot from almost all initial positions in the free space to the designated goal at a prescribed time, 
+while avoiding entering the obstacle regions augmented with safety margin. 
+By leveraging barrier functions and TST, we further derive a tube-following controller 
+to achieve robot trajectory tracking within a prescribed time less than the planner's settling time. 
+This controller ensures the robot moves inside a predefined "safe tube" around the reference trajectory, 
+where the tube radius is set to be less than the safety margin. Consequently, 
+the robot will reach the goal location within a prescribed time while avoiding collision with any obstacles along the way. 
+The proposed InPTC is implemented on a Mona robot operating in an arena cluttered with obstacles of various shapes. 
+Experimental results demonstrate that InPTC not only generates smooth collision-free reference trajectories 
+that converge to the goal location at the preassigned time of \(250\,\rm s\) (i.e., the required task completion time), 
+but also achieves tube-following trajectory tracking with tracking accuracy higher than \(0.01\rm m\) after the preassigned time of \(150\,\rm s\). 
+This enables the robot to accomplish the navigation task within the required time of \(250\,\rm s\). 
+
+<br><br>
 <iframe src="https://player.vimeo.com/video/895801720?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" 
 width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<br>
 
+Related publication:
+<ul>
+  <li>X. Shao, <b>B. Zhang<sup>#</sup></b>, H. Zhi, J. G. Romero, B. Fan, Q. Hu, and D. Navarro-Alarcon, 
+    "InPTC: Integrated Planning and Tube-Following Control for Prescribed-Time Collision-Free Navigation of Wheeled Mobile Robots," 
+    in <i>IEEE/ASME Transactions on Mechatronics (T-MECH)</i>, 2024 (Early Access). doi:<a href="https://doi.org/10.1109/TMECH.2024.3486727">10.1109/TMECH.2024.3486727</a>. 
+    (<a href="http://zbC137.github.io/files/papers/TMECH_2024.pdf">PDF</a>, <a href="https://vimeo.com/895801720">Video</a>)</li>
+</ul>
+# Equal contribution
