@@ -21,7 +21,7 @@ from March 2024 to July 2024, advised by [Prof. Dimos V. Dimarogonas](https://pe
 
 Research Interests
 ======
-* Multi-agent systems
+* Multi-robot systems
 * Formation control
 * Multi-robot manipulation
 * Control theory and applications
