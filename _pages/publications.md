@@ -12,7 +12,7 @@ author_profile: true
 
 ## Fisrt/Co-first Authored Journal Papers
 
-[FJ5] **B. Zhang**, H. Zhi, J. G. Romero, C. Yang, and D. Navarro-Alarcon, "Hug and Haul: Nonprehensile Object Transport by Deformable Tube-Connected Multi-Robot Systems," submitted to *The International Journal of Robotics Research (IJRR)*, 2026. ([PDF](/files/papers/IJRR_2026.pdf), [Video](https://vimeo.com/1243188763))
+[FJ5] **B. Zhang**, H. Zhi, J. G. Romero, C. Yang, and D. Navarro-Alarcon, "Hug and Haul: Nonprehensile Object Transport by Deformable Tube-Connected Multi-Robot Systems," submitted to *The International Journal of Robotics Research (IJRR)*, 2026. ([Video](https://vimeo.com/1243188763))
 
 [FJ4] X. Shao<sup>#</sup>, **B. Zhang<sup>#</sup>**, H. Zhi, J. G. Romero, B. Fan, Q. Hu, and D. Navarro-Alarcon, "InPTC: Integrated Planning and Tube-Following Control for Prescribed-Time Collision-Free Navigation of Wheeled Mobile Robots," in *IEEE/ASME Transactions on Mechatronics (T-MECH)*, vol. 30, no. 5, pp.3339-3350, Oct. 2025. doi:[10.1109/TMECH.2024.3486727](https://doi.org/10.1109/TMECH.2024.3486727). ([PDF](http://zbC137.github.io/files/papers/TMECH_2024.pdf), [Video](https://vimeo.com/895801720))
 **Presented in IROS 2025**
